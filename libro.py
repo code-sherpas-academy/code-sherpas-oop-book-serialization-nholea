@@ -1,7 +1,4 @@
 from abc import ABC, abstractmethod
-
-
-
 class Book():
     title = "The Pragmatic Programmer: From Journeyman to Master"
     authors = ["Andrew Hunt", "David Thomas"]
